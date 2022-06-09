@@ -6,6 +6,8 @@ This program using SQlite3. If you need more - rewrite SQL or connect something 
 
 Tables are auto-migrating via first run.
 
+Everything is inside one file, maybe later I'll refactor it (not).
+
 For Ubuntu 20.04 LTS Focal Fossa (focal):
 
 ```bash
